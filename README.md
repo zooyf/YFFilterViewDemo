@@ -100,4 +100,4 @@ Switching the view by ``hidden`` property.
 * 如果在使用过程中遇到BUG，希望你能Issues我，谢谢（或者尝试下载最新的框架代码看看BUG修复没有）
 * Issue me if you find bug
 * 如果你想为YFFilterView输出代码，请拼命Pull Requests我
-* Desperately Pull Requests ME!
+* Pull Requests ME Desperately!
