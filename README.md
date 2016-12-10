@@ -1,4 +1,4 @@
-# YFFilterView -- 筛选视图控件
+# YFFilterView -- iOS筛选控件
 
 * 使用Masonry布局，动态添加按钮数量，实现效果如图所示
 
